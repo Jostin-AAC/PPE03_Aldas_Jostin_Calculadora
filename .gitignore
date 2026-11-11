@@ -1,0 +1,12 @@
+# Ignorar carpetas generadas de compilación
+bin/
+obj/
+Calculadora/bin/
+Calculadora/obj/
+
+# Ignorar archivos y carpetas ocultas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
