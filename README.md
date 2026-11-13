@@ -1,9 +1,9 @@
-# PPE03 - Aplicación de Escritorio: Calculadora Básica en Windows Forms
+# PPE09 - Aplicación de Escritorio: Calculadora Básica en Windows Forms
 
 **Asignatura:** Diseño y Programación de Software (ITID543)  
 **Institución:** Escuela Politécnica Nacional  
 **Estudiante:** Jostin Ariel Aldás Carrasco  
-**Fecha de Entrega:** 17 de noviembre de 2026  
+**Fecha de Entrega:** 13 de noviembre de 2026  
 
 ---
 
